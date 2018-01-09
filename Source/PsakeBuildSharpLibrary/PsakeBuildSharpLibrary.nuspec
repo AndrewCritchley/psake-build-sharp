@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Ancr3.Experiments.PsakeBuildSharpLibrary</id>
+    <version>$version$</version>
+    <authors>NHS Digital</authors>
+    <title>Ancr3 cake script experiment</title>
+    <description>Ancr3 cake script experiment</description>
+  </metadata>
+  <files>
+    <file src="bin\Release\PsakeBuildSharpLibrary.dll" target="lib\net461\PsakeBuildSharpLibrary.dll" />
+  </files>
+</package>
